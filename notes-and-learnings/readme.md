@@ -30,8 +30,8 @@ My main objective is mastering the intersection of **Defensive Operations (Blue 
 ---
 
 ## 🛠️ Tools & Technologies
-- **Defensive:** Splunk, Wireshark, Microsoft Defender for Cloud.
-- **Offensive:** Kali Linux, Nmap, Burp Suite (Experimental).
+- **Defensive:** Splunk, Wireshark, Microsoft Defender.
+- **Offensive(Experimental):** Kali Linux, Nmap, Burp Suite.
 - **Compliance:** NIST Self-Assessment tools, GRC platforms.
 
 ---
