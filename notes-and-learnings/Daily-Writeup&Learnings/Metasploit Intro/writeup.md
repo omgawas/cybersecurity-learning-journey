@@ -34,10 +34,4 @@ A key part of this lab is distinguishing between how payloads are delivered:
 2.  **Stagers:** Small pieces of code that establish a connection to download the rest of the payload.
 3.  **Stages:** The larger payload components downloaded by the stager.
 
-> **Pro Tip:** You can identify them by their naming convention. Inline payloads use an underscore (e.g., `shell_reverse_tcp`), while staged payloads use a forward slash (e.g., `shell/reverse_tcp`).
 
----
-
----
-
-Would you like me to walk through the specific commands for using the `msfconsole` in the next task?
