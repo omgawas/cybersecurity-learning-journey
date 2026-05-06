@@ -33,6 +33,3 @@ A key part of this lab is distinguishing between how payloads are delivered:
 1.  **Singles (Inline):** Self-contained payloads that do not need to download extra components.
 2.  **Stagers:** Small pieces of code that establish a connection to download the rest of the payload.
 3.  **Stages:** The larger payload components downloaded by the stager.
-
-## Screenshots
-
